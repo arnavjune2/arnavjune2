@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **deep learning and deployment**
 
-- 💬 Ask me about **Python, Machine Learning, PostgreSQL, Data Analysis, Flask, Git and Github**
+- 💬 Ask me about **Python, Machine Learning, PostgreSQL, Data Analysis, DeepLearning, CNNs, RNNs, LLMs, GPTs, Flask, Git and Github**
 
 - 📫 How to reach me **arnavjune2@gmail.com**
 
-- ⚡ Fun fact **I can't sing, but can play guitar🎸**
+- ⚡ Fun fact **I can't sing like Ed Sheeran, but I can play guitar🎸 like him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
